@@ -1,0 +1,27 @@
+.container{
+    width: 800px;
+    /* padding: 10px 20px; */
+    margin: 0 auto;;
+}
+
+.welcome img{
+    width: 100%;
+}
+
+.navigation ul li{
+    display: inline;
+    padding-right: 20px;
+}
+
+.overview .left{
+    width: 50%;
+    float: left;
+}
+
+.overview .right{
+    width: 50%;
+    float: left;
+}
+.overview .right img{
+    width: 100%;
+}
